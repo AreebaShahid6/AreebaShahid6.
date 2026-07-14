@@ -2,7 +2,7 @@
 
 💻 Data Science & Machine Learning Enthusiast
 
-🎓 BBA (Digital Marketing)
+Computer Scientist
 
 🌱 Currently Learning
 - Python
